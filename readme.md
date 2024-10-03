@@ -107,8 +107,7 @@ For each analysis type (univariate/multivariate), two LSTM architectures were im
 ---
 
 ### Dependencies
-- Python 3.x
-- TensorFlow / Keras
+- Python 3.12
 - Pandas, NumPy
 - Matplotlib, Seaborn for visualization
 - scikit-learn for preprocessing
